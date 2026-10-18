@@ -4,7 +4,7 @@ An RGB lighting controller built on an **Arduino UNO (ATmega328P)** and an **ESP
 
 The firmware on the UNO is written in **AVR assembly**. I first built this as my Computer Organization & Assembly Language semester project in December 2023. I lost the original source along with my laptop, so this repository is a clean rewrite (2026) of the system shown in my demo video below.
 
-![Build](docs/media/build.png)
+![Build](docs/media/build.jpg)
 
 **Demo video:** [docs/media/demo.mp4](docs/media/demo.mp4)
 
