@@ -1,0 +1,15 @@
+# Local credentials
+firmware/esp32/chromalink_iot_esp32/config.h
+
+# Build output
+build/
+Debug/
+Release/
+*.hex
+*.elf
+*.obj
+*.lss
+*.map
+*.eep
+.vs/
+.DS_Store
