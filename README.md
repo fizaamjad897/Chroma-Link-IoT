@@ -2,6 +2,14 @@
 
 Chroma Link IoT is a firmware + hardware project that links RGB lighting to IoT-enabled controls. This repository contains firmware, documentation, and configuration to build, test, and extend the Chroma Link device.
 
+## Live demo video
+
+https://github.com/user-attachments/assets/f3f0dfc5-99c8-4c83-9238-d70c4f7115d7
+
+A walkthrough of the RGB modes, MQTT-to-UART control path, timing, and cloud logging, including footage of the original hardware build.
+
+[Download video](docs/media/chroma-motion.mp4) · [HTML presentation source](docs/media/chroma-motion.html)
+
 > NOTE: This README was added to provide a clear project overview. Please update the hardware and firmware details below (MCU model, LED driver IC, wiring diagram, etc.) so the documentation fully matches your implementation.
 
 ## Highlights
